@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="classify_objects"
+	 type="shapegame"
+	 section="/discovery/miscelaneous"
+	 icon="button.svg"
+	 difficulty="1"
+	 author="Beth Hadley (bhadley@mit.edu), credit also to Miguel De Izarra"
+	 boarddir="classify_objects"
+	 demo="1">
+	 <title>Sort the Objects</title>
+	 <description>Drag and drop the objects and arrange them in order according to the instructions. Arrange by real-life dimensions.</description>
+	<prerequisite>Mouse manipulation: movement, drag and drop</prerequisite>
+        <credit>Miguel De Izarra for his work developing geo_country; this is based almost entirely on his work with shape engine. The pictures are public domain and were obtained from http://www.clker.com/.</credit>
+  </Board>
+</GCompris>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShapeGame><!-- Sample of an object arrangement game based on size -->
+<title justification="GTK_JUSTIFY_CENTER" x="250" y="50">
+
+<name>Place the animals in order by real-life size</name></title>
+
+<shape name="horse" pixmapfile="classify_objects/size/horse.png" position="0" sound="sounds/$LOCALE/classify_objects/horse.ogg" x="400" y="100">
+<tooltip>horse</tooltip></shape>
+
+<shape name="pig" pixmapfile="classify_objects/size/pig.png" position="0" sound="sounds/$LOCALE/classify_objects/pig.ogg" x="400" y="200">
+<tooltip>pig</tooltip></shape>
+
+<shape name="mouse" pixmapfile="classify_objects/size/mouse.png" position="0" sound="sounds/$LOCALE/classify_objects/mouse.ogg" x="400" y="300">
+<tooltip>mouse</tooltip></shape>
+
+<shape name="butterfly" pixmapfile="classify_objects/size/butterfly.png" position="0" sound="sounds/$LOCALE/classify_objects/butterfly.ogg" x="400" y="400">
+<tooltip>butterfly</tooltip></shape>
+
+<shape name="background" pixmapfile="classify_objectsy/size/background.png" position="0" sound="sounds/$LOCALE/classify_objectsy/background.ogg" type="SHAPE_BACKGROUND" x="400.0" y="260.0">
+<tooltip>background</tooltip></shape>
+</ShapeGame>

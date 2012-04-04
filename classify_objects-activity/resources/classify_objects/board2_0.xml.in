@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShapeGame><!-- Sample of an object arrangement game based on size -->
+<title justification="GTK_JUSTIFY_CENTER" x="250" y="50">
+
+<name>Place the object in order by real-life mass</name></title>
+
+<shape name="ladybug" pixmapfile="classify_objects/mass/ladybug.png" position="0" sound="sounds/$LOCALE/classify_objects/ladybug.ogg" x="150" y="300">
+<tooltip>ladybug</tooltip></shape>
+
+<shape name="apple" pixmapfile="classify_objects/mass/apple.png" position="0" sound="sounds/$LOCALE/classify_objects/apple.ogg" x="300" y="300">
+<tooltip>apple</tooltip></shape>
+
+<shape name="violin" pixmapfile="classify_objects/mass/violin.png" position="0" sound="sounds/$LOCALE/classify_objects/violin.ogg" x="450" y="300">
+<tooltip>violin</tooltip></shape>
+
+<shape name="tree" pixmapfile="classify_objects/mass/tree.png" position="0" sound="sounds/$LOCALE/classify_objects/tree.ogg" x="650" y="300">
+<tooltip>tree</tooltip></shape>
+
+
+<shape name="background" pixmapfile="classify_objects/mass/background.png" position="0" sound="sounds/$LOCALE/classify_objects/background.ogg" type="SHAPE_BACKGROUND" x="400.0" y="260.0">
+<tooltip>background</tooltip></shape>
+</ShapeGame>

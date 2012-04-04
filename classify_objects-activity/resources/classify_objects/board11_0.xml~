@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShapeGame><!-- Created with GComprisShapegame gimp script -->
+<title justification="GTK_JUSTIFY_CENTER" x="600" y="495">
+<name>Sample</name></title>
+<shape name="Nevada" pixmapfile="geography/usmap/nevada.png" position="0" sound="sounds/$LOCALE/geography/Nevada.ogg" x="259.5" y="327.0">
+<tooltip>Nevada</tooltip></shape>
+<shape name="California" pixmapfile="geography/usmap/california.png" position="0" sound="sounds/$LOCALE/geography/California.ogg" x="78.0" y="237.5">
+<tooltip>California</tooltip></shape>
+<shape name="background" pixmapfile="geography/usmap/background.png" position="0" sound="sounds/$LOCALE/geography/background.ogg" type="SHAPE_BACKGROUND" x="400.0" y="260.0">
+<tooltip>background</tooltip></shape>
+</ShapeGame>
